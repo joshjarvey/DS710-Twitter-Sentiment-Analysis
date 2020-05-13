@@ -1,0 +1,16 @@
+#ignore generated files from jupyter.
+#these are temporary files, and should not be committed to a git repo.
+.ipynb_checkpoints
+name_frequency_graphic.png
+joshjarvey_final_analysis_markdown.docx
+FF7R_tweets_4_15_2020.csv
+FF7R_tweets_4_16_2020.csv
+FF7R_tweets_4_19_2020.csv
+FF7R_tweets_4_24_2020.csv
+FF7R_tweets_4_26_2020.csv
+finalfantasy7remake_tweets_4_15_2020.csv
+finalfantasy7remake_tweets_4_16_2020.csv
+finalfantasy7remake_tweets_4_19_2020.csv
+finalfantasy7remake_tweets_4_20_2020.csv
+finalfantasy7remake_tweets_4_24_2020.csv
+finalfantasy7remake_tweets_4_26_2020.csv
